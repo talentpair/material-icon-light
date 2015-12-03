@@ -1,9 +1,23 @@
 {
   "name": "material-icon-light",
-  "version": "0.0.1",
+  "version": "0.2.1",
   "homepage": "https://github.com/talentpair/material-icon-light",
   "authors": [
     "Scott Sword <scott@talentpair.com>"
+  ],
+  "keywords": [
+    "css",
+    "fonts",
+    "material-design",
+    "icons"
+  ],
+  "main": [
+    "material-font.css",
+    "fonts/MaterialIcons-Regular.eot",
+    "fonts/MaterialIcons-Regular.ijmap",
+    "fonts/MaterialIcons-Regular.ttf",
+    "fonts/MaterialIcons-Regular.woff",
+    "fonts/MaterialIcons-Regular.woff2"
   ],
   "license": "MIT",
   "ignore": [
