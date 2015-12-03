@@ -1,0 +1,16 @@
+{
+  "name": "material-icon-light",
+  "version": "0.0.1",
+  "homepage": "https://github.com/talentpair/material-icon-light",
+  "authors": [
+    "Scott Sword <scott@talentpair.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
